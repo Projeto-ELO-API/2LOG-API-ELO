@@ -1,3 +1,9 @@
+<a href="https://www.youtube.com/@projetoeloapi" target="_blank" rel="noopener noreferrer">
+  
+<img width="2048" height="1152" alt="banner" src="https://github.com/user-attachments/assets/13b3b8a6-addb-4703-bb27-b069794f4afc" />
+
+</a>
+
 # Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
