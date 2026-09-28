@@ -1,4 +1,4 @@
-# 📌 MVP - [Projeto ELO]
+# 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
