@@ -84,6 +84,7 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
   
 # Registro das Sprints
 
+
 | Sprint            | Previsão   | Status   | Histórico |
 
 |-------------------|------------|----------|-----------|
