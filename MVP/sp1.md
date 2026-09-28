@@ -1,32 +1,32 @@
 # 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
+- Desenvolver um dashboard funcional no Power BI para análise comparativa de estados brasileiros e do país em relação à sinistralidade 
+- Descobrir os fatores/causas associados a sinistros envolvendo veículos pesados  
 - Qual valor será entregue ao usuário final?  
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+O painel apresenta indicadores relevantes, como total de sinistros, total de óbitos e total de veículos, considerando munícipio, ano, tipo de veículo, tipo de acidente, sexo, faixa etária, envolvidos no sinistro, utilizando filtros para melhor análise.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- Analistas de segurança viária que buscam entender causas/fatores associados a sinistros com veículos pesados no trânsito  
+- Analistas de saúde pública que buscam entender as principais causas de óbitos no país
+- Analista de dados  interessados em visualização de dados logísticos
+  
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista de segurança viária, quero que os dados de sinistros envolvendo veículos pesados sejam obtidos da PRF, para analisar a ocorrência desses sinistros nas rodovias brasileiras.].         | Alta       | 5 pontos   |
+| US2 | Como analista de saúde pública, quero que os dados de mortalidade sejam obtidos do DATASUS, para analisar os óbitos relacionados à segurança viária.].         | Alta      | 3 pontos   |
+| US3 | Como analista de dados, quero que as bases públicas sejam acessadas diretamente pelo Google Colab, para realizar a preparação dos dados que serão utilizados no projeto.].         | Alta      | 3 pontos   
+| US4 | Como analista de dados, quero que os dados sejam normalizados, limpos e tenham uma análise inicial realizada em Python 3+, para garantir que as informações estejam preparadas para as análises do projeto.].         | Alta      | 3 pontos   
+| US5 | Como analista de segurança viária, quero integrar os dados de sinistros da PRF, mortalidade do DATASUS, frota e população, para realizar uma análise integrada dos indicadores de segurança viária.].         | Alta      | 3 pontos   
 
 ---
 
@@ -39,9 +39,10 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Dashboard funcional com dados carregados corretamente   
+- Presença de filtros (ex: município, período, tipo de veículos envolvidos)  
+- Extração e tratamento de dados em ferramentas confiáveis e verificadas.
+
 
 ---
 
