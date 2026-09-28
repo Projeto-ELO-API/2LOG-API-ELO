@@ -3,8 +3,7 @@
 ## 🎯 Objetivo do MVP
 - Desenvolver um dashboard funcional no Power BI para análise comparativa de estados brasileiros e do país em relação à sinistralidade 
 - Descobrir os fatores/causas associados a sinistros envolvendo veículos pesados  
-- Qual valor será entregue ao usuário final?  
-
+- Integração dos dados de sinistros da PRF, mortalidade do DATASUS, frota e população
 ---
 
 ## 📝 Descrição da Solução
