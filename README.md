@@ -85,7 +85,7 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 # Registro das Sprints
 
 
-| Sprint            | Previsão   | Status   | Histórico |
+| Sprint | Previsão | Status | Histórico |
 
 |-------------------|------------|----------|-----------|
 | 01                | 30/09/2026 | a fazer  | [MVP](MVP/sp1.md)  |
