@@ -36,12 +36,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo realizar a análise de dados relacionados à segurança viária brasileira, visando:
+* Desenvolver um dashboard interativo para analisar os indicadores de sinistralidade no trânsito;
+* Facilitar a identificação de fatores associados aos acidentes envolvendo veículos pesados;
+* Realizar a comparação com indicadores de segurança viária em nível nacional e estadual, para compreenção da situação dos estados brasileiros e do país;
+* Entender a situação da segurança viária e facilitar a identificação de áreas de risco.
 
 
 ## Tecnologias Utilizadas
@@ -51,7 +50,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Microsoft Excel
 * Slack
 * Python (Colab)
-* Mysql
 
 
 
