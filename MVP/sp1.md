@@ -32,8 +32,13 @@ O painel apresenta indicadores relevantes, como total de sinistros, total de ób
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Integrar dados da PRF e DATASUS                      | Concluído |
+| 02     | Criar um banco de dados                           | Concluído |
+| 03     | Tratamento de dados                           | Concluído |
+| 04     | Criar Dashboard no Power BI            | Concluído |
+| 05     | Criar gráficos por tipo                    | Concluído |
+| 06     | Listar totais de sinistros, óbitos e veículos       | Concluído |
+| 07     | Elaboração de imagem de fundo simples                       | Concluído |
 
 ---
 
