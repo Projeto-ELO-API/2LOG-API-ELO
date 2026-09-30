@@ -60,6 +60,7 @@ O painel apresenta indicadores relevantes, como total de sinistros, total de ób
 ---
 
 ## 📂 Anexos / Evidências
+Protótipo de Dashboard no Power BI - 28/09/2026
 <img width="1467" height="938" alt="image" src="https://github.com/user-attachments/assets/6faf2b9a-2af8-4710-bbf5-98dc2b2c7dd1" />
 
 
