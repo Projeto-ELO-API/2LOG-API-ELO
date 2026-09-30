@@ -53,6 +53,7 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 
 # Product Backlog 
 
+## Sprint 1
 
 |   Rank | Prioridade   | User Story                                                                                                                                                                                                                   |   Sprint |
 |-------:|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------:|
@@ -61,11 +62,21 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 |      3 | Alta         | Como cliente, quero que as bases públicas sejam acessadas diretamente pelo Google Colab, para realizar a preparação dos dados que serão utilizados no projeto.                                                               |        1 |
 |      4 | Alta         | Como cliente, quero que os dados sejam normalizados, limpos e tenham uma análise inicial realizada em Python 3+, para garantir que as informações estejam preparadas para as análises do projeto.                            |        1 |
 |      5 | Alta         | Como cliente, quero integrar os dados de sinistros da PRF, mortalidade do DATASUS, frota e população, para realizar uma análise integrada dos indicadores de segurança viária.                                               |        1 |
+
+## Sprint 2
+
+|   Rank | Prioridade   | User Story                                                                                                                                                                                                                   |   Sprint |
+|-------:|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------:|
 |      6 | Alta         | Como cliente, quero visualizar no Power BI os indicadores de segurança viária em nível nacional e estadual, para comparar a situação dos estados brasileiros e do país.                                                      |        2 |
 |      7 | Alta         | Como cliente, quero visualizar a taxa de mortes por 100 mil habitantes no Power BI, para comparar a mortalidade entre os estados brasileiros.                                                                                |        2 |
 |      8 | Média        | Como cliente, quero visualizar os sinistros por 10 mil veículos no Power BI, para analisar a ocorrência de sinistros considerando o tamanho da frota.                                                                        |        2 |
 |      9 | Média        | Como cliente, quero comparar os indicadores de cada estado com a média nacional no Power BI, para identificar estados com resultados acima ou abaixo da média brasileira.                                                    |        2 |
 |     10 | Média        | Como cliente, quero visualizar mapas e gráficos de tendência por estado no Power BI, para analisar a distribuição geográfica e a evolução dos indicadores de segurança viária.                                               |        2 |
+
+## Sprint 3
+
+|   Rank | Prioridade   | User Story                                                                                                                                                                                                                   |   Sprint |
+|-------:|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------:|
 |     11 | Média        | Como cliente, quero utilizar filtros no Power BI por tipo de veículo, região, ano e gravidade do sinistro, para realizar análises específicas dos dados.                                                                     |        3 |
 |     12 | Média        | Como cliente, quero realizar um cruzamento entre os dados de saúde do DATASUS e os dados de transporte da PRF, para analisar a relação entre os sinistros e a mortalidade.                                                   |        3 |
 |     13 | Média        | Como cliente, quero analisar a relação entre o crescimento da frota de veículos pesados e o aumento dos sinistros fatais, para verificar se existe associação entre esses indicadores.                                       |        3 |
