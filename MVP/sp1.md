@@ -21,10 +21,10 @@ O painel apresenta indicadores relevantes, como total de sinistros, total de ób
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista de segurança viária, quero que os dados de sinistros envolvendo veículos pesados sejam obtidos da PRF, para analisar a ocorrência desses sinistros nas rodovias brasileiras.         | Alta       | 5 pontos   |
+| US1 | Como analista de segurança viária, quero que os dados de sinistros envolvendo veículos pesados sejam obtidos da PRF, para analisar a ocorrência desses sinistros nas rodovias brasileiras.         | Alta       | 3 pontos   |
 | US2 | Como analista de saúde pública, quero que os dados de mortalidade sejam obtidos do DATASUS, para analisar os óbitos relacionados à segurança viária.         | Alta      | 3 pontos   |
-| US3 | Como analista de dados, quero que as bases públicas sejam acessadas diretamente pelo Google Colab, para realizar a preparação dos dados que serão utilizados no projeto.         | Alta      | 3 pontos   
-| US4 | Como analista de dados, quero que os dados sejam normalizados, limpos e tenham uma análise inicial realizada em Python 3+, para garantir que as informações estejam preparadas para as análises do projeto.         | Alta      | 3 pontos   
+| US3 | Como analista de dados, quero que as bases públicas sejam acessadas diretamente pelo Google Colab, para realizar a preparação dos dados que serão utilizados no projeto.         | Alta      | 2 pontos   
+| US4 | Como analista de dados, quero que os dados sejam normalizados, limpos e tenham uma análise inicial realizada em Python 3+, para garantir que as informações estejam preparadas para as análises do projeto.         | Alta      | 5 pontos   
 | US5 | Como analista de segurança viária, quero integrar os dados de sinistros da PRF, mortalidade do DATASUS, frota e população, para realizar uma análise integrada dos indicadores de segurança viária.         | Alta      | 3 pontos   
 
 ---
