@@ -38,17 +38,17 @@ O painel apresenta indicadores relevantes, como total de sinistros, total de ób
 ---
 
 ## 📊 Critérios de Aceitação
-- Dashboard funcional com dados carregados corretamente   
-- Presença de filtros (ex: município, período, tipo de veículos envolvidos)  
-- Extração e tratamento de dados em ferramentas confiáveis e verificadas.
+- Dashboard funcional com dados carregados corretamente 
+- Visualizações claras (gráficos e tabelas)  
+- Presença de filtros (ex: município, ano, tipo - acidente) 
 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 2  
+- Clareza na interpretação dos dados (feedback qualitativo) 
+- Funcionamento correto dos filtros e interações   
 
 ---
 
@@ -60,6 +60,13 @@ O painel apresenta indicadores relevantes, como total de sinistros, total de ób
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+<img width="1467" height="938" alt="image" src="https://github.com/user-attachments/assets/6faf2b9a-2af8-4710-bbf5-98dc2b2c7dd1" />
+
+
+
+
+
+
+
+
+
