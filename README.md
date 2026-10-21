@@ -8,18 +8,28 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Registro das Sprints](#Registro-das-Sprints)
-
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+
+
+# Índice
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Equipe](#Equipe)
+* [Backlog do produto](#Product-Backlog)
+* [Tecnologias Utilizadas](#Tecnologias-utilizadas)
+* [Registro das Sprints](#Registro-das-Sprints)
+  
+
+# Objetivo do Projeto
+Este projeto tem como objetivo realizar a análise de dados relacionados à segurança viária brasileira, visando:
+* Desenvolver um dashboard interativo para analisar os indicadores de sinistralidade no trânsito;
+* Facilitar a identificação de fatores associados aos acidentes envolvendo veículos pesados;
+* Realizar a comparação com indicadores de segurança viária em nível nacional e estadual, para compreensão da situação dos estados brasileiros e do país;
+* Entender a situação da segurança viária e facilitar a identificação de áreas de risco.
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -31,24 +41,6 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  |  Geovanna Oliveira               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geovannaoliveira17) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/geovannacerqueira427-cmd)   |
 |  Team Member  | Caio Martins       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-martins-955764217) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Quintanilhacaio) 
 |  Team Member  | Rafael Mota       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-leite-2718063b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaMota26) 
-
-
-# Objetivo do Projeto
-Este projeto tem como objetivo realizar a análise de dados relacionados à segurança viária brasileira, visando:
-* Desenvolver um dashboard interativo para analisar os indicadores de sinistralidade no trânsito;
-* Facilitar a identificação de fatores associados aos acidentes envolvendo veículos pesados;
-* Realizar a comparação com indicadores de segurança viária em nível nacional e estadual, para compreensão da situação dos estados brasileiros e do país;
-* Entender a situação da segurança viária e facilitar a identificação de áreas de risco.
-
-
-## Tecnologias Utilizadas
-
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
-* Python (Colab)
-
 
 
 # Product Backlog 
@@ -63,6 +55,7 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 |      4 | Alta         | Como cliente, quero que os dados sejam normalizados, limpos e tenham uma análise inicial realizada em Python 3+, para garantir que as informações estejam preparadas para as análises do projeto.                            |        1 |
 |      5 | Alta         | Como cliente, quero integrar os dados de sinistros da PRF, mortalidade do DATASUS, frota e população, para realizar uma análise integrada dos indicadores de segurança viária.                                               |        1 |
 
+
 ## Sprint 2
 
 |   Rank | Prioridade   | User Story                                                                                                                                                                                                                   |   Sprint |
@@ -72,6 +65,7 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 |      8 | Média        | Como cliente, quero visualizar os sinistros por 10 mil veículos no Power BI, para analisar a ocorrência de sinistros considerando o tamanho da frota.                                                                        |        2 |
 |      9 | Média        | Como cliente, quero comparar os indicadores de cada estado com a média nacional no Power BI, para identificar estados com resultados acima ou abaixo da média brasileira.                                                    |        2 |
 |     10 | Média        | Como cliente, quero visualizar mapas e gráficos de tendência por estado no Power BI, para analisar a distribuição geográfica e a evolução dos indicadores de segurança viária.                                               |        2 |
+
 
 ## Sprint 3
 
@@ -88,7 +82,13 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 |     19 | Baixa        | Como cliente, quero visualizar no Power BI os pontos de parada de descanso e a distância entre esses pontos e os locais dos sinistros, para analisar possíveis relações entre infraestrutura de descanso e segurança viária. |        3 |
 
 
+# Tecnologias Utilizadas
 
+* Jira Software
+* Power BI
+* Microsoft Excel
+* Slack
+* Python (Colab)
 
   
 # Registro das Sprints
