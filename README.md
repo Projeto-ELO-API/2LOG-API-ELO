@@ -37,7 +37,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Este projeto tem como objetivo realizar a análise de dados relacionados à segurança viária brasileira, visando:
 * Desenvolver um dashboard interativo para analisar os indicadores de sinistralidade no trânsito;
 * Facilitar a identificação de fatores associados aos acidentes envolvendo veículos pesados;
-* Realizar a comparação com indicadores de segurança viária em nível nacional e estadual, para compreenção da situação dos estados brasileiros e do país;
+* Realizar a comparação com indicadores de segurança viária em nível nacional e estadual, para compreensão da situação dos estados brasileiros e do país;
 * Entender a situação da segurança viária e facilitar a identificação de áreas de risco.
 
 
@@ -81,7 +81,7 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 |     12 | Média        | Como cliente, quero realizar um cruzamento entre os dados de saúde do DATASUS e os dados de transporte da PRF, para analisar a relação entre os sinistros e a mortalidade.                                                   |        3 |
 |     13 | Média        | Como cliente, quero analisar a relação entre o crescimento da frota de veículos pesados e o aumento dos sinistros fatais, para verificar se existe associação entre esses indicadores.                                       |        3 |
 |     14 | Média        | Como cliente, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar os locais com maior gravidade nos sinistros.                                                           |        3 |
-|     15 | Média        | Como cliente, quero que os artefatos do projeto sejam versionados utilizando o GitHub, para manter o histórico e o controle das versões dos arquivos, códigos e demais materiais desenvolvidos.                              |        3 |
+|     15 | Média        | Como cliente, quero que os artefatos do projeto sejam visionados utilizando o GitHub, para manter o histórico e o controle das versões dos arquivos, códigos e demais materiais desenvolvidos.                              |        3 |
 |     16 | Média        | Como cliente, quero que o dashboard desenvolvido no Power BI possua navegação intuitiva e acesso às informações com poucos cliques, para facilitar sua utilização pelos usuários.                                            |        3 |
 |     17 | Baixa        | Como cliente, quero analisar a variação dos sinistros envolvendo veículos pesados entre as regiões do Brasil, para identificar diferenças regionais na segurança viária.                                                     |        3 |
 |     18 | Baixa        | Como cliente, quero analisar a evolução dos indicadores de segurança viária entre 2015 e 2025, para identificar tendências e mudanças ao longo do período.                                                                   |        3 |
@@ -96,7 +96,7 @@ Este projeto tem como objetivo realizar a análise de dados relacionados à segu
 
 | Sprint | Previsão | Status | Histórico |
 |---|---|---|---|
-| 01 | 30/09/2026 | a fazer | [MVP](MVP/sp1.md) |
-| 02 | 28/10/2026 | a fazer | [MVP](MVP/sp2.md) |
+| 01 | 30/09/2026 | Concluído | [MVP](MVP/sp1.md) |
+| 02 | 28/10/2026 | em desenvolvimento | [MVP](MVP/sp2.md) |
 | 03 | 25/11/2026 | a fazer | [MVP](MVP/sp3.md) |
 | Feira de Soluções | 03/12/2026 | a fazer | [MVP](#) |
