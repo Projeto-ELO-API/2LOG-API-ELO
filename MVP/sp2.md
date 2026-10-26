@@ -37,22 +37,35 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Integrar dados da PRF e DATASUS                      | Concluído |
+| 02     | Criar um banco de dados                           | Concluído |
+| 03     | Tratamento de dados                           | Concluído |
+| 04     | Criar Dashboard no Power BI            | Concluído |
+| 05     | Criar gráficos por tipo                    | Concluído |
+| 06     | Listar totais de sinistros, óbitos e veículos       | Concluído |
+| 07     | Elaboração de imagem de fundo simples                       | Concluído |
+| 08     | Inclusão e modificação de filtros no gráfico                       | Concluído |
+| 09     | Realizar pesquisa em transportadoras                       | Concluído |
+
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Dashboard funcional com dados carregados corretamente 
+- Visualizações claras (gráficos e tabelas)  
+- Presença de filtros (ex: município, ano, tipo - acidente)
+- Análise dos dados com base em pesquisas realizadas
+- Pesquisa para entender a real situação de estradas da região
+- Inclusão e modificação de filtros no gráfico
+- Elaboração de novos filtros no gráfico
+  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 2  
+- Clareza na interpretação dos dados (feedback qualitativo) 
+- Funcionamento correto dos filtros e interações   
 
 ---
 
@@ -60,10 +73,11 @@
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
-
+  
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+<img width="889" height="501" alt="WhatsApp Image 2026-10-24 at 16 02 34" src="https://github.com/user-attachments/assets/3a1a9179-65f9-4c71-97a2-e9779d6b5203" />
+
+https://drive.google.com/file/d/1hCm9GMcVxEhrUy0RZ-ReEWFI4nNpsQzh/view?usp=drive_link
