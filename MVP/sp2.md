@@ -88,5 +88,7 @@
 
 [Dashboard-Visão-Geral](https://centropaulasouza-my.sharepoint.com/:u:/r/personal/thiago_miranda01_aluno_cps_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthiago%5Fmiranda01%5Faluno%5Fcps%5Fsp%5Fgov%5Fbr%2FDocuments%2FApi%2FBi%2E2semestre%2Epbix&parent=%2Fpersonal%2Fthiago%5Fmiranda01%5Faluno%5Fcps%5Fsp%5Fgov%5Fbr%2FDocuments%2FApi&share=cQqe8cDmVpQXQ5XyBhWnW22vEgUC6TdrdnVcJThlSoXsTr396g)
 
+[Link do código no Google Colab](https://colab.research.google.com/drive/1RbpxegXu_Whq5JTINoElmXo0AhxkYsVv?usp=sharing)
+
 
 
