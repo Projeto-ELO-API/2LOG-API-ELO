@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
 - Desenvolver um dashboard funcional no Power BI possibilitando a visualização da taxa de mortes por 100 mil habitantes em sinistros
