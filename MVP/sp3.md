@@ -25,8 +25,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US3 |Como gestor público, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar os locais com maior gravidade nos sinistros  | Média      | 3 pontos   |
-| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US3 |Como gestor público, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar os locais com maior gravidade nos sinistros.  | Média      | 5 pontos   |
+| US4 | Como Analista de segurança viária, querorealizar um cruzamento entre os dados de saúde do DATASUS e os dados de transporte da PRF, Para analisar a relação entre sinistros  e a mortalidade.        | Média      | 3 pontos   |
 | US5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 | US6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 | US7 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
