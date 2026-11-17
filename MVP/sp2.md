@@ -9,10 +9,7 @@
 ---
 
 ## 📝 Descrição da Solução
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
-
+...
 ---
 
 ## 👥 Personas / Usuários-Alvo
