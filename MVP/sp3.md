@@ -42,7 +42,6 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-|--------|----------------------------------------------|----------|
 | 01     | Integrar dados da PRF e DATASUS                      | Concluído |
 | 02     | Criar um banco de dados                           | Concluído |
 | 03     | Tratamento de dados                           | Concluído |
