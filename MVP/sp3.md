@@ -31,7 +31,7 @@
 | US14 | Como Inspetor do Observatório, quero utilizar filtros no Power BI por tipo de veículo, região, ano e gravidade do sinistro, para realizar análises específicas dos dados. | Média      | 3 pontos   |
 | US15 | Como Pesquisador do Observatório, quero que o dashboard desenvolvido no Power BI possua navegação intuitiva e acesso às informações com poucos cliques, para facilitar sua utilização pelos usuários.        | Média      | 2 pontos   |
 | US16 | Como Diretor do Observatório, quero que os artefatos do projeto sejam versionados utilizando o GitHub, para manter o histórico e o controle das versões dos arquivos, códigos e os demais materiais desenvolvidos.    | Média      | 3 pontos   |
-| US17 | Como Inspetor do Observatório, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar os locais com maior gravidade nos sinistros.      | Média      | 3 pontos   |
+| US17 | Como Inspetor do Observatório, quero analisar a relação entre o crescimento da frota de veículos pesados e o aumento dos sinistros fatais, para verificar se existe associação entre esses indicadores.     | Média      | 3 pontos   |
 | US18 |Como cliente, quero analisar a evolução dos indicadores de segurança viária entre 2015 e 2025, para identificar tendências e mudanças ao longo do período.        | Média      | 3 pontos   |
 | US19 | Como Analista de segurança viária, quero visualizar no Power BI os pontos de parada de descanso e a distância entre esses pontos e os locais dos sinistros, para analisar possíveis relações entre infraestrutura de descanso e segurança viária.         | Média      | 3 pontos   |
 
