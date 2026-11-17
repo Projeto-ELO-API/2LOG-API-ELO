@@ -19,7 +19,7 @@
 ## 👥 Personas / Usuários-Alvo
 - Analistas de segurança viária, que buscam entender causas/fatores associados a sinistros com veículos pesados no trânsito  
 - Analistas de saúde pública que, buscam entender as principais causas de óbitos no país
-- Analista de dados,  interessados em visualização de dados logísticosdas
+- Analista de dados,  interessados em visualização de dados logísticos
 - Gestores públicos, que buscam dados para melhoria contínua dos setores
 - Especialistas do Observatório Nacional, que buscam entender os dados e desenvolver soluções e melhorias no trãnsito.
 ---
