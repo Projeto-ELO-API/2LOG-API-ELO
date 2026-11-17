@@ -64,10 +64,9 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- Número de usuários que testaram o MVP: 2  
+- Clareza na interpretação dos dados (feedback qualitativo) 
+- Funcionamento correto dos filtros e interações
 ---
 
 ## 🚀 Próximos Passos
