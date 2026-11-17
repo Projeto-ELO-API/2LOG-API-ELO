@@ -7,10 +7,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Ampliação dos filtros no gráfico, permitindo análise mais detalhada em relação aos fatores que pode ser causadores iniciais de sinistros, análise e investigação de pequenas causas que estão diretamente ligadas a atividades de motoristas de veículos pesados que podem também ser .... com base nos dados   
 
 ---
 
