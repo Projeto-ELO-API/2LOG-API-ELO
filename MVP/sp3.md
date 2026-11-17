@@ -1,11 +1,9 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+- Avaliar o cenário da segurança viária e identificar possíveis regiões com maior riscos de sinistros.
+- Criar gráfico para análise mais detalhada permitindo a visualização de sinistros por tipo de veículo. 
+- Investigação de incidentes e identificação de fatores críticos (pivôs) em sinistros com motoristas de frota pesada. 
 ---
 
 ## 📝 Descrição da Solução
