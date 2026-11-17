@@ -42,8 +42,20 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+|--------|----------------------------------------------|----------|
+| 01     | Integrar dados da PRF e DATASUS                      | Concluído |
+| 02     | Criar um banco de dados                           | Concluído |
+| 03     | Tratamento de dados                           | Concluído |
+| 04     | Criar Dashboard no Power BI            | Concluído |
+| 05     | Criar gráficos por tipo                    | Concluído |
+| 06     | Listar totais de sinistros, óbitos e veículos       | Concluído |
+| 07     | Elaboração de imagem de fundo simples                       | Concluído |
+| 08     | Inclusão e modificação de filtros no gráfico                       | Concluído |
+| 09     | Realizar pesquisa em transportadoras                       | Concluído |
+| 10     | Ampliar os filtros no dashboard Power BI                       | Concluído |
+| 11     | Análise de causas-raiz e fatores determinantes de sinistros envolvendo veículos pesados                 | Concluído |
+| 12     | Disponibilizar no dashboard a visualização dos pontos de parada de descanso e a distância entre esses pontos e os locais dos sinistros                 | Concluído |
+| 13     | Filtrar os dados permitindo a análise de evolução dos indicadores de segurança viária entre 2015 e 2025            | Concluído 
 
 ---
 
