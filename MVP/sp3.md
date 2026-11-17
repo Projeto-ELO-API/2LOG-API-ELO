@@ -21,7 +21,7 @@
 - Analistas de saúde pública que, buscam entender as principais causas de óbitos no país
 - Analista de dados,  interessados em visualização de dados logísticos
 - Gestores públicos, que buscam dados para melhoria contínua dos setores
-- Especialistas do Observatório Nacional, que buscam entender os dados e desenvolver soluções e melhorias no trãnsito.
+- Especialistas do Observatório Nacional, que buscam entender os dados e desenvolver soluções e melhorias no trânsito.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
