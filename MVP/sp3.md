@@ -25,15 +25,15 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US3 |Como gestor público, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar os locais com maior gravidade nos sinistros.  | Média      | 5 pontos   |
-| US4 | Como Analista de segurança viária, querorealizar um cruzamento entre os dados de saúde do DATASUS e os dados de transporte da PRF, Para analisar a relação entre sinistros  e a mortalidade.        | Média      | 3 pontos   |
-| US5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US7 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US8 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US9 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US9 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US9 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US11 |Como Gestor público, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar os locais com maior gravidade nos sinistros.  | Média      | 2 pontos   |
+| US12 | Como Analista de segurança viária, quero realizar um cruzamento entre os dados de saúde do DATASUS e os dados de transporte da PRF, para analisar a relação entre sinistros  e a mortalidade.        | Média      | 5 pontos   |
+| US13 | Como Analista de segurança viária, quero analisar a variação dos sinistros envolvendo veículos pesados entre as regiões do Brasil, para identificar diferenças regionais na segurança viária.    | Baixa      | 2 pontos   |
+| US14 | Como cliente, quero analisar a evolução dos indicadores de segurança viária entre 2015 e 2025, para identificar tendências e mudanças ao longo do período. | Média      | 3 pontos   |
+| US15 | Como Pesquisador do Observatório, quero que o dashboard desenvolvido no Power BI possua navegação intuitiva e acesso às informações com poucos cliques, para facilitar sua utilização pelos usuários.        | Média      | 2 pontos   |
+| US16 | Como Diretor do Observatório, quero que os artefatos do projeto sejam versionados utilizando o GitHub, para manter o histórico e o controle das versões dos arquivos, códigos e os demais materiais desenvolvidos.    | Média      | 3 pontos   |
+| US17 | Como Inspetor do Observatório, quero utilizar filtros no power BI por tipo de veículo, região, ano e gravidade do sinistro, para realizar análises específicas dos dados.      | Média      | 3 pontos   |
+| US18 |Como cliente, quero analisar a evolução dos indicadores de segurança viária entre 2015 e 2025, para identificar tendências e mudanças ao longo do período.        | Média      | 3 pontos   |
+| US19 | Como Analista de segurança viária, quero visualizar no Power BI os pontos de parada de descanso e a distância entre esses pontos e os locais dos sinistros, para analisar possíveis relações entre infraestrutura de descanso e segurança viária.         | Média      | 3 pontos   |
 
 ---
 
