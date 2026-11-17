@@ -17,9 +17,11 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- Analistas de segurança viária, que buscam entender causas/fatores associados a sinistros com veículos pesados no trânsito  
+- Analistas de saúde pública que, buscam entender as principais causas de óbitos no país
+- Analista de dados,  interessados em visualização de dados logísticosdas
+- Gestores públicos, que buscam dados para melhoria contínua dos setores
+- Especialistas do Observatório Nacional, que buscam entender os dados e desenvolver soluções e melhorias no trãnsito.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
