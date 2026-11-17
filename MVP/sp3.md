@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo do MVP
 - Avaliar o cenário da segurança viária e identificar possíveis regiões com maior riscos de sinistros.
-- Criar gráfico para análise mais detalhada permitindo a visualização de sinistros por tipo de veículo. 
+- Criar gráfico para análise mais detalhada permitindo a visualização de sinistros por tipo de veículo e ampliar os filtros. 
 - Investigação de incidentes e identificação de fatores críticos (pivôs) em sinistros com motoristas de frota pesada. 
 ---
 
