@@ -11,6 +11,7 @@
 ## 📝 Descrição da Solução
 
 Modificação dos gráficos, permitindo análise ampla de comparação de índice de sinistros em nível nacional e estadual, para entender melhor a situação de diferentes estados brasileiros em relação à segurança viária.
+
 ---
 
 ## 👥 Personas / Usuários-Alvo
