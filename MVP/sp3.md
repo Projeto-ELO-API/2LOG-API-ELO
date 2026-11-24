@@ -79,10 +79,13 @@ Ampliação dos filtros no gráfico, permitindo análise mais detalhada em rela�
 ## 📂 Anexos / Evidências
 
 ## Tratamento de dados (Python)
+Fase inicial 
 <img width="1600" height="673" alt="image" src="https://github.com/user-attachments/assets/9cebab27-f0ca-4769-87b6-4d7a0ad023d5" />
 
+Concatenação dos dados de 2020 - 2025
 <img width="1600" height="422" alt="image" src="https://github.com/user-attachments/assets/91290948-e952-4523-bb8e-dd61683db0d5" />
 
+Visualização da tabela final
 <img width="1600" height="694" alt="image" src="https://github.com/user-attachments/assets/68d9b38c-0ac2-4179-8a5f-ce57cff60659" />
 
 
