@@ -70,22 +70,43 @@ Ampliação dos filtros no gráfico, permitindo análise mais detalhada em rela�
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Pequenas correções
+- Publicação do vídeo 
+- Apresentação na feira de soluções  
 
 ---
 
 ## 📂 Anexos / Evidências
 
+<a href="https://www.youtube.com/watch?v=HzqmKhDbvdI" target="_blank">
+
 ## Tratamento de dados (Python)
 Fase inicial 
 <img width="1600" height="673" alt="image" src="https://github.com/user-attachments/assets/9cebab27-f0ca-4769-87b6-4d7a0ad023d5" />
 
-Concatenação dos dados de 2020 - 2025
-<img width="1600" height="422" alt="image" src="https://github.com/user-attachments/assets/91290948-e952-4523-bb8e-dd61683db0d5" />
+## Concatenação dos dados de 2020 - 2025
+<img width="1600" height="422" alt="image" src="https://github.com/user-attachments/assets/91290948-e952-4523-bb8e-dd61683db0d5" /> 
 
-Visualização da tabela final
+## Visualização da tabela final
 <img width="1600" height="694" alt="image" src="https://github.com/user-attachments/assets/68d9b38c-0ac2-4179-8a5f-ce57cff60659" />
 
+## Dashboard-visão geral
+[Dashboard-Visão-Geral](https://centropaulasouza-my.sharepoint.com/:u:/r/personal/thiago_miranda01_aluno_cps_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthiago%5Fmiranda01%5Faluno%5Fcps%5Fsp%5Fgov%5Fbr%2FDocuments%2FApi%2FBi%2E2semestre%2Epbix&parent=%2Fpersonal%2Fthiago%5Fmiranda01%5Faluno%5Fcps%5Fsp%5Fgov%5Fbr%2FDocuments%2FApi&share=cQqe8cDmVpQXQ5XyBhWnW22vEgUC6TdrdnVcJThlSoXsTr396g)
+
+<img width="1448" height="813" alt="image" src="https://github.com/user-attachments/assets/c498727f-779e-482c-9b83-eb7b29d2edc1" />
+
+## Análises estatísticas
+<img width="1439" height="799" alt="image" src="https://github.com/user-attachments/assets/674a1f28-3ae8-4774-9159-51c11903b3a1" />
+
+## Perfil dos sinistros
+<img width="1452" height="810" alt="image" src="https://github.com/user-attachments/assets/51072f72-7c86-433b-bfea-8ef3dbebbfbc" />
+
+
+## Dashboard-Segurança-viária
+[Dashboard-Segurança-Viária](https://centropaulasouza-my.sharepoint.com/:u:/r/personal/caio_souza16_aluno_cps_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcaio%5Fsouza16%5Faluno%5Fcps%5Fsp%5Fgov%5Fbr%2FDocuments%2FAnexos%2FDASHBOARD%20API%20SEGURAN%C3%87A%20AVIARIA%20NACIONAL%2Epbix&parent=%2Fpersonal%2Fcaio%5Fsouza16%5Faluno%5Fcps%5Fsp%5Fgov%5Fbr%2FDocuments%2FAnexos&share=cQpFE%2DRvm8r0SaRt%5FqbRWIQDEgUCE4qlegek03vV5h1p8oU1Ag)
+
+<img width="890" height="500" alt="image" src="https://github.com/user-attachments/assets/28f17efe-bf60-46a8-962e-eceb90f4d56b" />
+
+## PACER
+<img width="995" height="580" alt="image" src="https://github.com/user-attachments/assets/0f6e1a2f-f776-4e8c-ac93-c28036a0bd16" />
 
